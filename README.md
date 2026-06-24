@@ -75,22 +75,6 @@ I recently completed my Engineering degree and am currently focused on becoming 
 
 ---
 
-## 📈 DevOps Roadmap Progress
-
-```text
-Linux           ██████████ 100%
-Git             ██████████ 100%
-Networking      ██████████ 100%
-Docker          ██████████ 100%
-Jenkins         █████████░ 90%
-AWS             █████████░ 90%
-Kubernetes      ████████░░ 80%
-Terraform       ███████░░░ 70%
-Python          ███████░░░ 70%
-Ansible         ██████░░░░ 60%
-EKS             █████░░░░░ 50%
-````
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techwithsatish\&show_icons=true)
