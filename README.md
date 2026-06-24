@@ -87,6 +87,6 @@ I recently completed my Engineering degree and am currently focused on becoming 
 
 * GitHub: https://github.com/techwithsatish
 * Portfolio: https://techwithsatish.github.io/Satish-Portfolio/
-* LinkedIn: Add Your LinkedIn URL
+* LinkedIn: https://www.linkedin.com/in/satish-m-a99b66334/
 
 ---
