@@ -77,7 +77,7 @@ I recently completed my Engineering degree and am currently focused on becoming 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techwithsatish\&show_icons=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techwithsatish\&show_icons=true) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techwithsatish\&layout=compact)
 
