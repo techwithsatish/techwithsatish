@@ -87,5 +87,6 @@ I recently completed my Engineering degree and am currently focused on becoming 
 * Resume: https://techwithsatish.github.io/Satish-Resume/index.pdf
 * Portfolio: https://techwithsatish.github.io/Satish-Portfolio/
 * LinkedIn: https://www.linkedin.com/in/satish-m-a99b66334/
+* Hasnode: https://hashnode.com/@techwithsatish
 
 ---
